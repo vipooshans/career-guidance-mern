@@ -445,7 +445,7 @@ Access to XMLHttpRequest blocked by CORS policy
 
 - **Issues**: [GitHub Issues](https://github.com/vipooshans/career-guidance-mern/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/vipooshans/career-guidance-mern/discussions)
-- **Email**: vipoos.hans@gmail.com
+- **Email**: vipooshanvipoo9@gmail.com
 
 ---
 
